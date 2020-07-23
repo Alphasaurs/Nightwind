@@ -10,3 +10,5 @@
  Object
  NULL
  Resource
+4.string concatenation using . as we use + in java
+  eg. echo"answer is ".$ans
