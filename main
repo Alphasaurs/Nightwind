@@ -1,3 +1,12 @@
 1.php is dynamic i.e you don't need to assign string ,int before variable 
   e.g. $a=45;$b=hello;
 2.php is case insensitive i.e.echo==Echo
+3.data types
+ String
+ Integer
+ Float 
+ Boolean
+ Array
+ Object
+ NULL
+ Resource
