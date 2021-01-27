@@ -1,1 +1,3 @@
-# CRUX about php
+# Nightwind
+## run Ubuntu in gui
+  `sudo /etc/init.d/xrdp start`
